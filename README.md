@@ -1,4 +1,4 @@
-# Tutorial-Swagger-API
+# C-Sharp-Swagger-API
 C-Sharp Making API .Net Core
 
 Change appsettings.json 
